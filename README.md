@@ -1,3 +1,5 @@
+<img src="myOctocat.png" align="right" width="250" height="250" alt="My Octocat"/>
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on develop a [custom Laravel Logger to Rocket.Chat](https://github.com/Sysvale/rocketchat-monolog-handler)
