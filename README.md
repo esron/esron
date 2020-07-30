@@ -1,4 +1,4 @@
-<img src="myOctocat.png" align="right" width="250" height="250" alt="My Octocat"/>
+<img src="./myOctocat.png" align="right" width="250" height="250" alt="My Octocat"/>
 
 ### Hi there 👋
 
