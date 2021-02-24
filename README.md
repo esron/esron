@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on refactoring the tests in the company's projetct
+- 🔭 I’m currently working on automation with IaC
 - 🌱 I’m currently learning how to assert software quality
 - 💬 Ask me about vídeo games :joystick:
 - 📫 How to reach me: esron.silva@sysvale.com or my Twitter @oesron
