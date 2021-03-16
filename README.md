@@ -6,5 +6,5 @@
 - 🌱 I’m currently learning how to assert software quality
 - 💬 Ask me about vídeo games :joystick:
 - 📫 How to reach me: esron.silva@sysvale.com or my Twitter @oesron
-- :scroll: Read my articles at [Medium](https://medium.com/@esron.dtamar)
+- :scroll: Read my articles at [Medium](https://esron-dtamar.medium.com/)
 - 😄 Pronouns: He/Him
