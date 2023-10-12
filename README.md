@@ -3,8 +3,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on automation with IaC and OpenShift
-- 🌱 I’m currently reading [Site Reliability Engineering](https://sre.google/books/)
 - 💬 Ask me about vídeo games :joystick:
-- 📫 How to reach me: esron.dtamar@gmail.com or my Twitter @oesron
+- 📫 How to reach me: esron.dtamar@gmail.com or on Fediverse @esron@usrsal.zone
 - :scroll: Read my articles at [Medium](https://esron-dtamar.medium.com/)
 - 😄 Pronouns: He/Him
